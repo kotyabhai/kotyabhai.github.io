@@ -1,0 +1,105 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": true
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header2-9",
+          "_params": {
+            "imageSize": "56",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dvet%20logo-1400x1248.png",
+              "link": "http://userpager.ga/5d41402abc4b2a76b9719d911017e592/fcb/m/en/?i=1151470",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "link": "",
+              "size": 250,
+              "active": true
+            }
+          },
+          "title": "<font color=\"#000000\">12th standars students&nbsp;</font>",
+          "text": "<font color=\"#000000\">आता १२वी सुटलाय चांगल्या कॉलेज मध्ये एडमिशन पाहिजे आता चिंता सोडा.</font>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://userpager.ga/5d41402abc4b2a76b9719d911017e592/fcb/m/en/?i=1151470\" data-toolbar=\"-mbrBtnMove\">येथे लोईन करा&nbsp;<br></a>"
+        }
+      ]
+    }
+  }
+}
